@@ -36,3 +36,6 @@ Thumbs.db
 
 # Github Actions
 workflows.disabled/
+
+# kubernetes
+backend-secret.yml
